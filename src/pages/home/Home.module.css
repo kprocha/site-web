@@ -1,0 +1,21 @@
+.hero {
+  text-align: center;
+  padding: 5rem 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.title span {
+  color: var(--color-primary);
+}
+
+.subtitle {
+  font-size: 1.125rem;
+  color: var(--color-text-muted);
+  max-width: 600px;
+  margin: 0 auto;
+}
