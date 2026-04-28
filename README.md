@@ -1,4 +1,4 @@
-# 🖥️ SIF Soft — Site Institucional (Frontend)
+# 🖥️ SIF Soft - Site Institucional (Frontend)
 
 > Frontend do site institucional da **SIF Soft**, empresa júnior de Sistemas de Informação do **IFNMG Campus Salinas**.
 > Construído com **React + Vite**, consome a API REST desenvolvida pela turma de Web II.
