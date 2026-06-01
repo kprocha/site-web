@@ -6,16 +6,19 @@
 .title {
   font-size: 2.5rem;
   font-weight: 800;
+  color: #1a237e;
   margin-bottom: 1rem;
 }
 
 .title span {
-  color: var(--color-primary);
+  color: #1565c0;
+  border-bottom: 3px solid #f5a623;
+  padding-bottom: 2px;
 }
 
 .subtitle {
   font-size: 1.125rem;
-  color: var(--color-text-muted);
+  color: #78909c;
   max-width: 600px;
   margin: 0 auto;
 }
